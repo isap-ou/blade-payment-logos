@@ -1,6 +1,6 @@
 <?php
 
-namespace Isapp\BladePaymentIcons;
+namespace Isapp\BladePaymentLogos;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Container\Container;
