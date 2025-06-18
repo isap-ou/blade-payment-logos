@@ -1,0 +1,40 @@
+{
+  "name": "isapp/blade-payment-logos",
+  "description": "A package to easily make use of payment logos in your Laravel Blade views.",
+  "type": "library",
+  "require": {
+    "blade-ui-kit/blade-icons": "^1.8"
+  },
+  "require-dev": {
+    "laravel/pint": "^1.22",
+    "codeat3/blade-icon-generation-helpers": "^0.10.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Isapp\\BladePaymentLogos\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ISAP OÜ",
+      "email": "contact@isap.me",
+      "homepage": "https://isap.me"
+    },
+    {
+      "name": "Andrii Trush",
+      "email": "andrii.trush@isapp.be",
+      "homepage": "https://isapp.be"
+    }
+  ],
+  "support": {
+    "email": "contact@isap.me"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Isapp\\BladePaymentLogos\\BladePaymentLogosServiceProvider"
+      ]
+    }
+  }
+}

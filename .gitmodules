@@ -1,0 +1,3 @@
+[submodule "payment-logos"]
+	path = payment-logos
+	url = git@github.com:datatrans/payment-logos.git
