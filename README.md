@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="./socialcard-blade-carbon-icons.png" width="1280" title="Social Card Blade Payment Logos">
+    <img src="https://static.isap.me/blade-payment-logos.png" width="1280" title="Social Card Blade Payment Logos">
 </p>
 
-# Blade Payment Icons
+# Blade Payment Logos
 
 <a href="https://packagist.org/packages/isapp/blade-payment-icons">
     <img src="https://img.shields.io/packagist/v/isapp/blade-payment-icons" alt="Latest Stable Version">
