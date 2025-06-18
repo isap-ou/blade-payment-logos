@@ -4,16 +4,16 @@
 
 # Blade Payment Logos
 
-<a href="https://packagist.org/packages/isapp/blade-payment-icons">
-    <img src="https://img.shields.io/packagist/v/isapp/blade-payment-icons" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/isapp/blade-payment-logos">
+    <img src="https://img.shields.io/packagist/v/isapp/blade-payment-logos" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/isapp/blade-payment-icons">
-    <img src="https://img.shields.io/packagist/dt/isapp/blade-payment-icons" alt="Total Downloads">
+<a href="https://packagist.org/packages/isapp/blade-payment-logos">
+    <img src="https://img.shields.io/packagist/dt/isapp/blade-payment-logos" alt="Total Downloads">
 </a>
 
 A package to easily make use of [Payment Logos](https://github.com/datatrans/payment-logos) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg).
+For a full list of available logos see [the SVG directory](resources/svg).
 
 ## Requirements
 
