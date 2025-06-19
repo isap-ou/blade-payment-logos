@@ -25,7 +25,7 @@ return [
     |
     */
 
-    'fallback' => 'pl-generic-card-generic',
+    'fallback' => 'generic.card-generic',
 
     /*
     |-----------------------------------------------------------------
