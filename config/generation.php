@@ -4,7 +4,6 @@ use Codeat3\BladeIconGeneration\IconProcessor;
 
 $svgNormalization = static function (string $tempFilepath, array $iconSet) {
     // perform generic optimizations
-    xdebug_break();
     $iconProcessor = new IconProcessor($tempFilepath, $iconSet);
     $iconProcessor
         ->optimize()
